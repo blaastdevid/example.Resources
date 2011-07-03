@@ -1,0 +1,16 @@
+{
+	"style": {
+		"background-color": "white"
+	},
+
+	"contents": [
+		{
+			"name": "image1",
+			"control": "ImageView"
+		},
+		{
+			"name": "image2",
+			"control": "ImageView"
+		}
+	]
+}
